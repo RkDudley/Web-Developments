@@ -1,0 +1,26 @@
+#image {
+	text-align: center;
+	margin-top: 120px;
+}
+
+img {
+	width: 600px;
+	height: 201px;
+	margin-bottom: 30px;
+}
+form {
+	text-align: center;
+}
+
+input:first-child{
+	height: 33.99px;
+	width: 403.03px;
+	box-shadow: 1px 2px 1px #888888;
+    margin-bottom: 30px; 	
+}
+#bottom {
+	text-decoration: none;
+}
+div p  {
+	text-align: center; 
+}

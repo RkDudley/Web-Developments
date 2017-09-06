@@ -1,0 +1,48 @@
+body {
+    font: 20px "Montserrat", sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+}
+
+p {font-size: 16px;}
+.bg-1 { 
+    background-color: #66cdaa; /* Green */
+    color: #ffffff;
+}
+.pic-profile {
+    width: 300px;
+    height: 300px;
+}
+.bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+}
+.bg-3 { 
+    background-color: #ffffff; /* White */
+    color: #555555;
+    max-width: 80%;
+}
+.bg-4 { 
+    background-color: #2f2f2f;
+    color: #ffffff;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.navbar-nav li a:hover {
+    color: #add8a6 !important;
+}
+
+
